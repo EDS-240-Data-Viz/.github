@@ -6,7 +6,7 @@ This is a centralized organization for housing all code and materials for EDS 24
 - assignment templates (private)
 - assignment answer keys (private)
 
-Explore the pcourse website](https://eds-240-data-viz.github.io/) for more information!
+Explore the [course website](https://eds-240-data-viz.github.io/) for more information!
 
 <!--
 
