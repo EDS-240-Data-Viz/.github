@@ -1,4 +1,12 @@
-## EDS 240: Data Visualization & Communication course materials
+# Course materials for EDS 240
+
+This is a centralized organization for housing all code and materials for EDS 240: Data Visualization & Communication. It includes:
+
+- the course website repository 
+- assignment templates (private)
+- assignment answer keys (private)
+
+Explore the course website for more information!
 
 <!--
 
