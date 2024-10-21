@@ -1,4 +1,4 @@
-## Hi there 👋
+## EDS 240: Data Visualization & Communication course materials
 
 <!--
 
