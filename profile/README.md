@@ -2,9 +2,10 @@
 
 This is a centralized organization for housing all code and materials for EDS 240: Data Visualization & Communication. It includes:
 
-- the course website repository 
+- the [course website repository](https://github.com/EDS-240-Data-Viz/EDS-240-Data-Viz.github.io) 
 - assignment templates (private)
 - assignment answer keys (private)
+- [code](https://github.com/EDS-240-Data-Viz/learning-partners/blob/main/assign-learning-partners.R) for randomly assigning learning partners
 
 Explore the [course website](https://eds-240-data-viz.github.io/) for more information!
 
