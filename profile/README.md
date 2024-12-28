@@ -1,6 +1,7 @@
 # Course materials for EDS 240
 
 This is a centralized organization for housing all code and materials for EDS 240: Data Visualization & Communication. It includes:
+<img align='right' src='https://github.com/user-attachments/assets/5dace941-ccf6-4341-aa26-5f23b07e17fe' width='300' alt="A hexagon with a scatter / line plot where the data points are water droplets. Two flowers roots originate at the water droplets and flowers sprout out of the top of the hexagon. The words 'EDS 240 data visualization & communication' sit below the plot. The design is inspired by the ggplot2 hex.">
 
 - the [course website repository](https://github.com/EDS-240-Data-Viz/EDS-240-Data-Viz.github.io) 
 - assignment templates (private)
