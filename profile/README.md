@@ -6,6 +6,7 @@ This organization houses all code and materials for [EDS 240: Data Visualization
 It includes:
 
 - the [course website repository](https://github.com/EDS-240-Data-Viz/EDS-240-Data-Viz.github.io)
+- downloadable [template `.qmd` files](https://github.com/EDS-240-Data-Viz/code-along-templates) for in-class live-coding sessions
 - [code](https://github.com/EDS-240-Data-Viz/learning-partners/blob/main/assign-learning-partners.R) for randomly assigning learning partners
 - <sup>*</sup>assignment templates (private)
 - <sup>*</sup>assignment answer keys (private)
