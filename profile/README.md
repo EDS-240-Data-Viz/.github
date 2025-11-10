@@ -8,7 +8,6 @@ It includes:
 - the [course website repository](https://github.com/EDS-240-Data-Viz/EDS-240-Data-Viz.github.io)
 - downloadable [template `.qmd` files](https://github.com/EDS-240-Data-Viz/code-along-templates) for in-class live-coding exercises
 - [code](https://github.com/EDS-240-Data-Viz/learning-partners/blob/main/assign-learning-partners.R) for randomly assigning learning partners
-- <sup>*</sup>assignment templates (private)
 - <sup>*</sup>assignment answer keys (private)
 
 Explore the [course website](https://eds-240-data-viz.github.io/) for more information!
